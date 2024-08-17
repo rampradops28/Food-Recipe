@@ -1,0 +1,10 @@
+.img{
+  height: 200px;
+  width:300px;
+}
+
+table,tr,td,th,caption{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding:0.5rem;
+}
